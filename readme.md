@@ -119,13 +119,14 @@ Used Lucide React icons for a clean and lightweight design.
 
 ## 🚀 Deployment
 
-The App [Link]()
+The App [Link](https://task-managment-gilt.vercel.app/)
 
 ## 📸 Screenshots
 
 ### 🎨 Modern UI Preview
 
-*(Add screenshots of your sleek UI here!)*
+![Screenshot 2025-03-25 225345](https://github.com/user-attachments/assets/5dfc931a-a835-4219-95aa-5fbc792be706)
+![Screenshot 2025-03-25 225404](https://github.com/user-attachments/assets/ad6aa47d-561a-4e1f-ac1d-6475c97218eb)
 
 ## 💡 Future Enhancements
 
