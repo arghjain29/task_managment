@@ -32,7 +32,7 @@ A sleek and modern task management web application built using the MERN Stack (M
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/arghjain29/task_managment
 cd task-manager
 ```
 
@@ -67,12 +67,12 @@ cd frontend
 npm install
 ```
 
-#### Update API URL
+#### Configure `.env`
 
-Modify `frontend/src/config.js` (or API file) with your backend URL:
+Create a `.env` file inside `frontend/` and add:
 
-```js
-export const API_URL = "http://localhost:5000/tasks";  // Change after deployment
+```env
+VITE_API_URL = http://localhost:5000
 ```
 
 #### Run Frontend
@@ -118,16 +118,7 @@ Used Lucide React icons for a clean and lightweight design.
 
 ## 🚀 Deployment
 
-### Backend Deployment (Render/Heroku)
-
-1. Push backend to GitHub.
-2. Deploy on Render.
-3. Update frontend API URL with deployed backend.
-
-### Frontend Deployment (Vercel/Netlify)
-
-1. Push frontend to GitHub.
-2. Deploy on Vercel or Netlify.
+The App [Link]()
 
 ## 📸 Screenshots
 
