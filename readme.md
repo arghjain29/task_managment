@@ -9,6 +9,7 @@ A sleek and modern task management web application built using the MERN Stack (M
 - ✅ **Fully Responsive**: Works seamlessly on mobile, tablet, and desktop.
 - ✅ **Reusable Components**: Organized code structure for maintainability.
 - ✅ **Lucide React Icons**: Used for beautiful and consistent icons.
+- ✅ **React Toastify**: Used for beautiful and consistent Notification.
 - ✅ **RESTful API**: Backend built with Express.js and MongoDB.
 
 ## 🛠️ Tech Stack
@@ -18,6 +19,7 @@ A sleek and modern task management web application built using the MERN Stack (M
 - ⚡ **React with Vite** (for fast development)
 - 🎨 **Tailwind CSS** (for a modern, shadcn-inspired theme)
 - 🔗 **Lucide React** (for icons)
+- 🔔 **React Toastify** (for Notification)
 - 🏗 **Reusable Component Structure**
 
 ### Backend (Node.js, Express.js, MongoDB)

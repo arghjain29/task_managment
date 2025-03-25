@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import { toast } from "react-toastify";
 import TaskList from "./components/TaskList";
 import TaskForm from "./components/TaskForm";
 import EditTaskModal from "./components/EditTaskModal";
@@ -38,6 +39,7 @@ function App() {
       console.error(err);
     } finally {
       setIsLoading(false);
+      toast.success("Task created successfully");
     }
   };
 
@@ -54,6 +56,7 @@ function App() {
       console.error(err);
     } finally {
       setIsLoading(false);
+      toast.success("Task updated successfully");
     }
   };
 
@@ -67,6 +70,7 @@ function App() {
       console.error(err);
     } finally {
       setIsLoading(false);
+      toast.success("Task deleted successfully");
     }
   };
 
